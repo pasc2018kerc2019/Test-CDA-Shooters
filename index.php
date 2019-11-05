@@ -10,8 +10,7 @@ $verse->playVerse();//calling the method from the class to get started in the in
 
 ?>
 
-</body>
-</html>
+
 <!--to avoid serious risks of cross-site scripting (XSS)("htmlspecialchars($_SERVER['PHP_SELF']") -->
 <form action="<?= htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post">
 
