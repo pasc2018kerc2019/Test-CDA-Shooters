@@ -11,12 +11,12 @@ song "99 shooters sans alcool" by choosing a number between 0 and 99 .
 #  How to install
 
 - Use your favorite ide (vscode, sublimetext....)
-- download the folder [Test-CDA-Shooters](https://github.com/pasc2018kerc2019/Test-CDA-Shooters)  
+- Download the folder [Test-CDA-Shooters](https://github.com/pasc2018kerc2019/Test-CDA-Shooters)  
 - Or clone it  (using gitbash for example ) :https://github.com/pasc2018kerc2019/Test-CDA-Shooters.git
 
 ## How to Use it
 
-- once you've got the folder and files in your computer open with a right click index.php with your php server: Open file in Browser (vscode for instance)
+- Once you've got the folder and files in your computer open with a right click index.php with your php server :Open file in Browser (vscode for instance)
 and let's begin
 
 
@@ -25,7 +25,7 @@ and let's begin
 - Just write down integer number in the form field called "numéro du couplet", an integer number 
  between 0 and 99 and the chorus will appear, if not an error message will appear.
 
-## the author of the test
+## Author of the test
 Folgoas Pascal: candidate for the cda education background
 
 
