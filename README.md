@@ -2,10 +2,11 @@
 
 # Instructions for the test
 
-ref: https://github.com/greta-vannes/test-cda
-The purpose of the test : 
-Creation of  codes that can display the verses of the 
-song "99 shooters sans alcool" by choosing a number between 0 and 99 .
+- ref: https://github.com/greta-vannes/test-cda
+
+### The purpose of the test : 
+- Creation of  codes that can display the verses of the 
+  song "99 shooters sans alcool" by choosing a number between 0 and 99 .
 
 
 #  How to install
