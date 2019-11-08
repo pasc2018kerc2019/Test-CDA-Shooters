@@ -17,8 +17,9 @@
 
 ## How to Use it
 
-- Once you've got the folder and files in your computer open with a right click index.php with your php server :Open file in Browser (vscode for instance)
-and let's begin
+- Once you've got the folder and files in your computer 
+- Open with a right click index.php with your php server :Open file in Browser (vscode option for instance)
+- And begin the game
 
 
 ## How to run the dunning program
