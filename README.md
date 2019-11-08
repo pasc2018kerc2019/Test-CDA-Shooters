@@ -1,6 +1,7 @@
 # Test-CDA-Shooters
 
 # Instructions for the test
+
 ref: https://github.com/greta-vannes/test-cda
 The purpose of the test : 
 Creation of  codes that can display the verses of the 
@@ -15,17 +16,17 @@ song "99 shooters sans alcool" by choosing a number between 0 and 99 .
 
 ## How to Use it
 
-- once you've got the folder and files in your computer open index.php file 
+- once you've got the folder and files in your computer open with a right click index.php with your php server: Open file in Browser (vscode for instance)
 and let's begin
 
 
 ## How to run the dunning program
 
-- Just write down integer number in the form field called "numéro du couplet", a number 
+- Just write down integer number in the form field called "numéro du couplet", an integer number 
  between 0 and 99 and the chorus will appear, if not an error message will appear.
 
 ## the author of the test
-FOLGOAS Pascal: candidate for the cda education background
+Folgoas Pascal: candidate for the cda education background
 
 
 
